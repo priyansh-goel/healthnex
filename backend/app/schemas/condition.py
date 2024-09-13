@@ -1,0 +1,50 @@
+from enum import Enum
+
+class ClinicalStatus(Enum):
+    ACTIVE = "active"
+    RECURRENCE = "recurrence"
+    RELAPSE = "relapse"
+    INACTIVE = "inactive"
+    REMISSION = "remission"
+    RESOLVED = "resolved"
+    UNKNOWN = "unknown"
+
+
+class Severity(Enum):
+    low = "low"
+    moderate = "moderate"
+    high = "high"
+
+
+class BodySite(Enum):
+    HEAD = "head"
+    NECK = "neck"
+    CHEST = "chest"
+    ABDOMEN = "abdomen"
+    BACK = "back"
+    PELVIS = "pelvis"
+    ARMS = "arms"
+    LEGS = "legs"
+    HANDS = "hands"
+    FEET = "feet"
+    SHOULDERS = "shoulders"
+    KNEES = "knees"
+    ELBOWS = "elbows"
+    JOINTS = "joints"
+    SKIN = "skin"
+    ORAL = "oral"
+    EYES = "eyes"
+    EARS = "ears"
+    NOSE = "nose"
+    THROAT = "throat"
+    LUNGS = "lungs"
+    HEART = "heart"
+    LIVER = "liver"
+    KIDNEYS = "kidneys"
+    BLADDER = "bladder"
+    BOWELS = "bowels"
+    PROSTATE = "prostate"
+    OVARIES = "ovaries"
+    UTERUS = "uterus"
+    TESTICLES = "testicles"
+    OTHER = "other"

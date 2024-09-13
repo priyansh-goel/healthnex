@@ -53,8 +53,8 @@ By leveraging patient history and real-time data, this system identifies and ale
 
 ## **Demo Links**
 
-- **PowerPoint Presentation**: [AI-Powered EHR Presentation](#)
-- **WhatsApp Bot Demo Video**: [YouTube Video](#)
-- **Deployed System**: [Live Demo](#)
+- **PowerPoint Presentation**: [AI-Powered EHR Presentation](https://docs.google.com/presentation/d/1qq-Y5E4aQaVK-jMqqReOlM-ndZbxxLUZHc6jHmtwSh0/edit?usp=sharing)
+- **WhatsApp Bot Demo Video**: [YouTube Video](https://youtu.be/vhAG4urvRIs)
+- **Deployed System**: [Live Demo](https://healthnex-iota.vercel.app/)
 
 ---
